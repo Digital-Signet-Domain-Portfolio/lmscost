@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#FAF6EE"/>
+  <rect x="8" y="10" width="48" height="44" rx="3" fill="#1F4733"/>
+  <rect x="12" y="14" width="40" height="36" rx="1.5" fill="#FAF6EE"/>
+  <line x1="16" y1="22" x2="48" y2="22" stroke="#1F4733" stroke-width="2"/>
+  <line x1="16" y1="30" x2="48" y2="30" stroke="#1F4733" stroke-width="2"/>
+  <line x1="16" y1="38" x2="40" y2="38" stroke="#1F4733" stroke-width="2"/>
+  <text x="32" y="62" text-anchor="middle" font-family="serif" font-size="9" font-weight="700" fill="#1F4733">LMS</text>
+</svg>
